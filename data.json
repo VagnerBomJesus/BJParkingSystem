@@ -1,0 +1,1082 @@
+[
+    
+    {
+        "matricula": "XX-XX-007",
+        "marca": "Audi",
+        "vaga": 7,
+        "entrada": "2024-04-27T11:20:00",
+        "saida": "2024-04-27T15:00:00",
+        "valorPago": "6.50",
+        "metodoPagamento": "Dinheiro"
+    },
+    {
+        "matricula": "XX-XX-008",
+        "marca": "Mercedes",
+        "vaga": 8,
+        "entrada": "2024-04-26T08:45:00",
+        "saida": "2024-04-26T10:30:00",
+        "valorPago": "4.50",
+        "metodoPagamento": "Multibanco"
+    },
+    {
+        "matricula": "XX-XX-009",
+        "marca": "Volkswagen",
+        "vaga": 9,
+        "entrada": "2024-04-25T09:00:00",
+        "saida": "2024-04-25T12:15:00",
+        "valorPago": "5.50",
+        "metodoPagamento": "Dinheiro"
+    },
+    {
+        "matricula": "XX-XX-010",
+        "marca": "Hyundai",
+        "vaga": 10,
+        "entrada": "2024-04-24T12:30:00",
+        "saida": "2024-04-24T16:00:00",
+        "valorPago": "7.50",
+        "metodoPagamento": "Multibanco"
+    },
+    {
+        "matricula": "XX-XX-011",
+        "marca": "Subaru",
+        "vaga": 11,
+        "entrada": "2024-04-23T07:00:00",
+        "saida": "2024-04-23T09:30:00",
+        "valorPago": "3.50",
+        "metodoPagamento": "Dinheiro"
+    },
+    {
+        "matricula": "XX-XX-012",
+        "marca": "Mazda",
+        "vaga": 12,
+        "entrada": "2024-04-22T10:00:00",
+        "saida": "2024-04-22T12:45:00",
+        "valorPago": "6.00",
+        "metodoPagamento": "Multibanco"
+    },
+    {
+        "matricula": "XX-XX-013",
+        "marca": "Kia",
+        "vaga": 13,
+        "entrada": "2024-04-21T08:15:00",
+        "saida": "2024-04-21T10:00:00",
+        "valorPago": "4.00",
+        "metodoPagamento": "Dinheiro"
+    },
+    {
+        "matricula": "XX-XX-014",
+        "marca": "Volvo",
+        "vaga": 14,
+        "entrada": "2024-04-20T09:45:00",
+        "saida": "2024-04-20T11:30:00",
+        "valorPago": "5.00",
+        "metodoPagamento": "Multibanco"
+    },
+    {
+        "matricula": "XX-XX-015",
+        "marca": "Lexus",
+        "vaga": 15,
+        "entrada": "2024-04-19T07:30:00",
+        "saida": "2024-04-19T09:15:00",
+        "valorPago": "3.00",
+        "metodoPagamento": "Dinheiro"
+    },
+    {
+        "matricula": "XX-XX-016",
+        "marca": "Acura",
+        "vaga": 16,
+        "entrada": "2024-04-18T10:20:00",
+        "saida": "2024-04-18T12:00:00",
+        "valorPago": "4.50",
+        "metodoPagamento": "Multibanco"
+    },
+    {
+        "matricula": "XX-XX-017",
+        "marca": "Infiniti",
+        "vaga": 17,
+        "entrada": "2024-04-17T09:10:00",
+        "saida": "2024-04-17T11:00:00",
+        "valorPago": "5.50",
+        "metodoPagamento": "Dinheiro"
+    },
+    {
+        "matricula": "XX-XX-018",
+        "marca": "Porsche",
+        "vaga": 18,
+        "entrada": "2024-04-16T08:00:00",
+        "saida": "2024-04-16T09:45:00",
+        "valorPago": "6.00",
+        "metodoPagamento": "Multibanco"
+    },
+    {
+        "matricula": "XX-XX-019",
+        "marca": "Mitsubishi",
+        "vaga": 19,
+        "entrada": "2024-04-15T10:30:00",
+        "saida": "2024-04-15T12:30:00",
+        "valorPago": "7.00",
+        "metodoPagamento": "Dinheiro"
+    },
+    {
+        "matricula": "XX-XX-020",
+        "marca": "Land Rover",
+        "vaga": 20,
+        "entrada": "2024-04-14T11:15:00",
+        "saida": "2024-04-14T13:00:00",
+        "valorPago": "8.00",
+        "metodoPagamento": "Multibanco"
+    },
+    {
+        "matricula": "XX-XX-021",
+        "marca": "Jeep",
+        "vaga": 21,
+        "entrada": "2024-04-13T09:30:00",
+        "saida": "2024-04-13T11:15:00",
+        "valorPago": "4.00",
+        "metodoPagamento": "Dinheiro"
+    },
+    {
+        "matricula": "XX-XX-022",
+        "marca": "Ram",
+        "vaga": 22,
+        "entrada": "2024-04-12T07:45:00",
+        "saida": "2024-04-12T10:00:00",
+        "valorPago": "5.50",
+        "metodoPagamento": "Multibanco"
+    },
+    {
+        "matricula": "XX-XX-023",
+        "marca": "Buick",
+        "vaga": 23,
+        "entrada": "2024-04-11T10:00:00",
+        "saida": "2024-04-11T12:00:00",
+        "valorPago": "6.50",
+        "metodoPagamento": "Dinheiro"
+    },
+    {
+        "matricula": "XX-XX-024",
+        "marca": "Cadillac",
+        "vaga": 24,
+        "entrada": "2024-04-10T08:30:00",
+        "saida": "2024-04-10T10:30:00",
+        "valorPago": "7.50",
+        "metodoPagamento": "Multibanco"
+    },
+    {
+        "matricula": "XX-XX-025",
+        "marca": "Chrysler",
+        "vaga": 25,
+        "entrada": "2024-04-09T09:00:00",
+        "saida": "2024-04-09T11:00:00",
+        "valorPago": "8.50",
+        "metodoPagamento": "Dinheiro"
+    },
+    {
+        "matricula": "XX-XX-026",
+        "marca": "Dodge",
+        "vaga": 26,
+        "entrada": "2024-04-08T11:00:00",
+        "saida": "2024-04-08T13:00:00",
+        "valorPago": "9.50",
+        "metodoPagamento": "Multibanco"
+    },
+    {
+        "matricula": "XX-XX-027",
+        "marca": "GMC",
+        "vaga": 27,
+        "entrada": "2024-04-07T10:30:00",
+        "saida": "2024-04-07T12:30:00",
+        "valorPago": "10.00",
+        "metodoPagamento": "Dinheiro"
+    },
+    {
+        "matricula": "XX-XX-028",
+        "marca": "Lincoln",
+        "vaga": 28,
+        "entrada": "2024-04-06T08:45:00",
+        "saida": "2024-04-06T10:45:00",
+        "valorPago": "11.00",
+        "metodoPagamento": "Multibanco"
+    },
+    {
+        "matricula": "XX-XX-029",
+        "marca": "Maserati",
+        "vaga": 29,
+        "entrada": "2024-04-05T09:15:00",
+        "saida": "2024-04-05T11:15:00",
+        "valorPago": "12.00",
+        "metodoPagamento": "Dinheiro"
+    },
+    {
+        "matricula": "XX-XX-030",
+        "marca": "Mini",
+        "vaga": 30,
+        "entrada": "2024-04-04T07:30:00",
+        "saida": "2024-04-04T09:30:00",
+        "valorPago": "13.00",
+        "metodoPagamento": "Multibanco"
+    },
+    {
+        "matricula": "XX-XX-031",
+        "marca": "Nissan",
+        "vaga": 31,
+        "entrada": "2024-04-03T10:00:00",
+        "saida": "2024-04-03T12:00:00",
+        "valorPago": "14.00",
+        "metodoPagamento": "Dinheiro"
+    },
+    {
+        "matricula": "XX-XX-032",
+        "marca": "Plymouth",
+        "vaga": 32,
+        "entrada": "2024-04-02T11:30:00",
+        "saida": "2024-04-02T13:30:00",
+        "valorPago": "15.00",
+        "metodoPagamento": "Multibanco"
+    },
+    {
+        "matricula": "XX-XX-033",
+        "marca": "Pontiac",
+        "vaga": 33,
+        "entrada": "2024-04-01T09:45:00",
+        "saida": "2024-04-01T11:45:00",
+        "valorPago": "16.00",
+        "metodoPagamento": "Dinheiro"
+    },
+    {
+        "matricula": "XX-XX-034",
+        "marca": "Saturn",
+        "vaga": 34,
+        "entrada": "2024-03-31T08:00:00",
+        "saida": "2024-03-31T10:00:00",
+        "valorPago": "17.00",
+        "metodoPagamento": "Multibanco"
+    },
+    {
+        "matricula": "XX-XX-035",
+        "marca": "Aston Martin",
+        "vaga": 35,
+        "entrada": "2024-03-30T10:30:00",
+        "saida": "2024-03-30T12:30:00",
+        "valorPago": "18.00",
+        "metodoPagamento": "Dinheiro"
+    },
+    {
+        "matricula": "XX-XX-036",
+        "marca": "Bentley",
+        "vaga": 36,
+        "entrada": "2024-03-29T11:45:00",
+        "saida": "2024-03-29T13:45:00",
+        "valorPago": "19.00",
+        "metodoPagamento": "Multibanco"
+    },
+    {
+        "matricula": "XX-XX-037",
+        "marca": "Bugatti",
+        "vaga": 37,
+        "entrada": "2024-03-28T09:00:00",
+        "saida": "2024-03-28T11:00:00",
+        "valorPago": "20.00",
+        "metodoPagamento": "Dinheiro"
+    },
+    {
+        "matricula": "XX-XX-038",
+        "marca": "Ferrari",
+        "vaga": 38,
+        "entrada": "2024-03-27T08:15:00",
+        "saida": "2024-03-27T10:15:00",
+        "valorPago": "21.00",
+        "metodoPagamento": "Multibanco"
+    },
+    {
+        "matricula": "XX-XX-039",
+        "marca": "Lamborghini",
+        "vaga": 39,
+        "entrada": "2024-03-26T09:30:00",
+        "saida": "2024-03-26T11:30:00",
+        "valorPago": "22.00",
+        "metodoPagamento": "Dinheiro"
+    },
+    {
+        "matricula": "XX-XX-040",
+        "marca": "McLaren",
+        "vaga": 40,
+        "entrada": "2024-03-25T10:45:00",
+        "saida": "2024-03-25T12:45:00",
+        "valorPago": "23.00",
+        "metodoPagamento": "Multibanco"
+    },
+    {
+        "matricula": "XX-XX-041",
+        "marca": "Rolls-Royce",
+        "vaga": 41,
+        "entrada": "2024-03-24T11:00:00",
+        "saida": "2024-03-24T13:00:00",
+        "valorPago": "24.00",
+        "metodoPagamento": "Dinheiro"
+    },
+    {
+        "matricula": "XX-XX-042",
+        "marca": "Alfa Romeo",
+        "vaga": 42,
+        "entrada": "2024-03-23T09:15:00",
+        "saida": "2024-03-23T11:15:00",
+        "valorPago": "25.00",
+        "metodoPagamento": "Multibanco"
+    },
+    {
+        "matricula": "XX-XX-043",
+        "marca": "Fiat",
+        "vaga": 43,
+        "entrada": "2024-03-22T08:30:00",
+        "saida": "2024-03-22T10:30:00",
+        "valorPago": "26.00",
+        "metodoPagamento": "Dinheiro"
+    },
+    {
+        "matricula": "XX-XX-044",
+        "marca": "Jaguar",
+        "vaga": 44,
+        "entrada": "2024-03-21T07:45:00",
+        "saida": "2024-03-21T09:45:00",
+        "valorPago": "27.00",
+        "metodoPagamento": "Multibanco"
+    },
+    {
+        "matricula": "XX-XX-045",
+        "marca": "Lotus",
+        "vaga": 45,
+        "entrada": "2024-03-20T10:00:00",
+        "saida": "2024-03-20T12:00:00",
+        "valorPago": "28.00",
+        "metodoPagamento": "Dinheiro"
+    },
+    {
+        "matricula": "XX-XX-046",
+        "marca": "Smart",
+        "vaga": 46,
+        "entrada": "2024-03-19T11:15:00",
+        "saida": "2024-03-19T13:15:00",
+        "valorPago": "29.00",
+        "metodoPagamento": "Multibanco"
+    },
+    {
+        "matricula": "XX-XX-047",
+        "marca": "Suzuki",
+        "vaga": 47,
+        "entrada": "2024-03-18T09:30:00",
+        "saida": "2024-03-18T11:30:00",
+        "valorPago": "30.00",
+        "metodoPagamento": "Dinheiro"
+    },
+    {
+        "matricula": "XX-XX-048",
+        "marca": "Volvo",
+        "vaga": 48,
+        "entrada": "2024-03-17T08:45:00",
+        "saida": "2024-03-17T10:45:00",
+        "valorPago": "31.00",
+        "metodoPagamento": "Multibanco"
+    },
+    {
+        "matricula": "XX-XX-049",
+        "marca": "Lexus",
+        "vaga": 49,
+        "entrada": "2024-03-16T10:00:00",
+        "saida": "2024-03-16T12:00:00",
+        "valorPago": "32.00",
+        "metodoPagamento": "Dinheiro"
+    },
+    {
+        "matricula": "XX-XX-050",
+        "marca": "Acura",
+        "vaga": 50,
+        "entrada": "2024-03-15T11:15:00",
+        "saida": "2024-03-15T13:15:00",
+        "valorPago": "33.00",
+        "metodoPagamento": "Multibanco"
+    },
+    {
+        "matricula": "XX-XX-001",
+        "marca": "Toyota",
+        "vaga": 1,
+        "entrada": "2024-05-10T08:00:00",
+        "saida": "2024-05-10T10:30:00",
+        "valorPago": "5.40",
+        "metodoPagamento": "Dinheiro"
+    },
+    {
+        "matricula": "XX-XX-002",
+        "marca": "Honda",
+        "vaga": 2,
+        "entrada": "2024-05-09T09:15:00",
+        "saida": "2024-05-09T11:45:00",
+        "valorPago": "6.20",
+        "metodoPagamento": "Multibanco"
+    },
+    {
+        "matricula": "XX-XX-003",
+        "marca": "Ford",
+        "vaga": 3,
+        "entrada": "2024-05-08T07:30:00",
+        "saida": "2024-05-08T08:30:00",
+        "valorPago": "0.20",
+        "metodoPagamento": "Dinheiro"
+    },
+    {
+        "matricula": "XX-XX-004",
+        "marca": "Chevrolet",
+        "vaga": 4,
+        "entrada": "2024-04-30T14:00:00",
+        "saida": "2024-04-30T18:00:00",
+        "valorPago": "8.00",
+        "metodoPagamento": "Multibanco"
+    },
+    {
+        "matricula": "XX-XX-005",
+        "marca": "Tesla",
+        "vaga": 5,
+        "entrada": "2024-04-29T12:00:00",
+        "saida": "2024-04-29T15:00:00",
+        "valorPago": "7.00",
+        "metodoPagamento": "Dinheiro"
+    },
+    {
+        "matricula": "XX-XX-006",
+        "marca": "BMW",
+        "vaga": 6,
+        "entrada": "2024-04-28T10:30:00",
+        "saida": "2024-04-28T13:45:00",
+        "valorPago": "9.00",
+        "metodoPagamento": "Multibanco"
+    },
+    {
+        "matricula": "XX-XX-007",
+        "marca": "Audi",
+        "vaga": 7,
+        "entrada": "2024-04-27T11:20:00",
+        "saida": "2024-04-27T15:00:00",
+        "valorPago": "6.80",
+        "metodoPagamento": "Dinheiro"
+    },
+    {
+        "matricula": "XX-XX-008",
+        "marca": "Mercedes",
+        "vaga": 8,
+        "entrada": "2024-04-26T08:45:00",
+        "saida": "2024-04-26T10:30:00",
+        "valorPago": "4.40",
+        "metodoPagamento": "Multibanco"
+    },
+    {
+        "matricula": "XX-XX-009",
+        "marca": "Volkswagen",
+        "vaga": 9,
+        "entrada": "2024-04-25T09:00:00",
+        "saida": "2024-04-25T12:15:00",
+        "valorPago": "5.80",
+        "metodoPagamento": "Dinheiro"
+    },
+    {
+        "matricula": "XX-XX-010",
+        "marca": "Hyundai",
+        "vaga": 10,
+        "entrada": "2024-04-24T12:30:00",
+        "saida": "2024-04-24T16:00:00",
+        "valorPago": "7.80",
+        "metodoPagamento": "Multibanco"
+    },
+    {
+        "matricula": "XX-XX-011",
+        "marca": "Kia",
+        "vaga": 11,
+        "entrada": "2024-04-23T09:45:00",
+        "saida": "2024-04-23T11:30:00",
+        "valorPago": "3.20",
+        "metodoPagamento": "Dinheiro"
+    },
+    {
+        "matricula": "XX-XX-012",
+        "marca": "Subaru",
+        "vaga": 12,
+        "entrada": "2024-04-22T10:15:00",
+        "saida": "2024-04-22T13:45:00",
+        "valorPago": "8.00",
+        "metodoPagamento": "Multibanco"
+    },
+    {
+        "matricula": "XX-XX-013",
+        "marca": "Volvo",
+        "vaga": 13,
+        "entrada": "2024-04-21T11:00:00",
+        "saida": "2024-04-21T15:30:00",
+        "valorPago": "6.60",
+        "metodoPagamento": "Dinheiro"
+    },
+    {
+        "matricula": "XX-XX-014",
+        "marca": "Lexus",
+        "vaga": 14,
+        "entrada": "2024-04-20T08:30:00",
+        "saida": "2024-04-20T11:45:00",
+        "valorPago": "7.40",
+        "metodoPagamento": "Multibanco"
+    },
+    {
+        "matricula": "XX-XX-015",
+        "marca": "Acura",
+        "vaga": 15,
+        "entrada": "2024-04-19T09:00:00",
+        "saida": "2024-04-19T12:15:00",
+        "valorPago": "5.60",
+        "metodoPagamento": "Dinheiro"
+    },
+    {
+        "matricula": "XX-XX-016",
+        "marca": "Infiniti",
+        "vaga": 16,
+        "entrada": "2024-04-18T08:15:00",
+        "saida": "2024-04-18T11:30:00",
+        "valorPago": "4.80",
+        "metodoPagamento": "Multibanco"
+    },
+    {
+        "matricula": "XX-XX-017",
+        "marca": "Mazda",
+        "vaga": 17,
+        "entrada": "2024-04-17T11:00:00",
+        "saida": "2024-04-17T14:45:00",
+        "valorPago": "6.20",
+        "metodoPagamento": "Dinheiro"
+    },
+    {
+        "matricula": "XX-XX-018",
+        "marca": "Porsche",
+        "vaga": 18,
+        "entrada": "2024-04-16T08:00:00",
+        "saida": "2024-04-16T09:45:00",
+        "valorPago": "6.00",
+        "metodoPagamento": "Multibanco"
+    },
+    {
+        "matricula": "XX-XX-019",
+        "marca": "Mitsubishi",
+        "vaga": 19,
+        "entrada": "2024-04-15T10:30:00",
+        "saida": "2024-04-15T13:00:00",
+        "valorPago": "7.40",
+        "metodoPagamento": "Dinheiro"
+    },
+    {
+        "matricula": "XX-XX-020",
+        "marca": "Land Rover",
+        "vaga": 20,
+        "entrada": "2024-04-14T11:15:00",
+        "saida": "2024-04-14T13:00:00",
+        "valorPago": "8.00",
+        "metodoPagamento": "Multibanco"
+    },
+    {
+        "matricula": "XX-XX-001",
+        "marca": "Toyota",
+        "vaga": 1,
+        "entrada": "2024-05-10T08:00:00",
+        "saida": "2024-05-10T10:30:00",
+        "valorPago": "5.40",
+        "metodoPagamento": "Dinheiro"
+    },
+    {
+        "matricula": "XX-XX-002",
+        "marca": "Honda",
+        "vaga": 2,
+        "entrada": "2024-05-09T09:15:00",
+        "saida": "2024-05-09T11:45:00",
+        "valorPago": "6.20",
+        "metodoPagamento": "Multibanco"
+    },
+    {
+        "matricula": "XX-XX-003",
+        "marca": "Ford",
+        "vaga": 3,
+        "entrada": "2024-05-08T07:30:00",
+        "saida": "2024-05-08T08:30:00",
+        "valorPago": "0.20",
+        "metodoPagamento": "Dinheiro"
+    },
+    {
+        "matricula": "XX-XX-004",
+        "marca": "Chevrolet",
+        "vaga": 4,
+        "entrada": "2024-04-30T14:00:00",
+        "saida": "2024-04-30T18:00:00",
+        "valorPago": "8.00",
+        "metodoPagamento": "Multibanco"
+    },
+    {
+        "matricula": "XX-XX-005",
+        "marca": "Tesla",
+        "vaga": 5,
+        "entrada": "2024-04-29T12:00:00",
+        "saida": "2024-04-29T15:00:00",
+        "valorPago": "7.00",
+        "metodoPagamento": "Dinheiro"
+    },
+    {
+        "matricula": "XX-XX-006",
+        "marca": "BMW",
+        "vaga": 6,
+        "entrada": "2024-04-28T10:30:00",
+        "saida": "2024-04-28T13:45:00",
+        "valorPago": "9.00",
+        "metodoPagamento": "Multibanco"
+    },
+    {
+        "matricula": "XX-XX-007",
+        "marca": "Audi",
+        "vaga": 7,
+        "entrada": "2024-04-27T11:20:00",
+        "saida": "2024-04-27T15:00:00",
+        "valorPago": "6.80",
+        "metodoPagamento": "Dinheiro"
+    },
+    {
+        "matricula": "XX-XX-008",
+        "marca": "Mercedes",
+        "vaga": 8,
+        "entrada": "2024-04-26T08:45:00",
+        "saida": "2024-04-26T10:30:00",
+        "valorPago": "4.40",
+        "metodoPagamento": "Multibanco"
+    },
+    {
+        "matricula": "XX-XX-009",
+        "marca": "Volkswagen",
+        "vaga": 9,
+        "entrada": "2024-04-25T09:00:00",
+        "saida": "2024-04-25T12:15:00",
+        "valorPago": "5.80",
+        "metodoPagamento": "Dinheiro"
+    },
+    {
+        "matricula": "XX-XX-010",
+        "marca": "Hyundai",
+        "vaga": 10,
+        "entrada": "2024-04-24T12:30:00",
+        "saida": "2024-04-24T16:00:00",
+        "valorPago": "7.80",
+        "metodoPagamento": "Multibanco"
+    },
+    {
+        "matricula": "XX-XX-011",
+        "marca": "Kia",
+        "vaga": 11,
+        "entrada": "2024-04-23T09:45:00",
+        "saida": "2024-04-23T11:30:00",
+        "valorPago": "3.20",
+        "metodoPagamento": "Dinheiro"
+    },
+    {
+        "matricula": "XX-XX-012",
+        "marca": "Subaru",
+        "vaga": 12,
+        "entrada": "2024-04-22T10:15:00",
+        "saida": "2024-04-22T13:45:00",
+        "valorPago": "8.00",
+        "metodoPagamento": "Multibanco"
+    },
+    {
+        "matricula": "XX-XX-013",
+        "marca": "Volvo",
+        "vaga": 13,
+        "entrada": "2024-04-21T11:00:00",
+        "saida": "2024-04-21T15:30:00",
+        "valorPago": "6.60",
+        "metodoPagamento": "Dinheiro"
+    },
+    {
+        "matricula": "XX-XX-014",
+        "marca": "Lexus",
+        "vaga": 14,
+        "entrada": "2024-04-20T08:30:00",
+        "saida": "2024-04-20T11:45:00",
+        "valorPago": "7.40",
+        "metodoPagamento": "Multibanco"
+    },
+    {
+        "matricula": "XX-XX-015",
+        "marca": "Acura",
+        "vaga": 15,
+        "entrada": "2024-04-19T09:00:00",
+        "saida": "2024-04-19T12:15:00",
+        "valorPago": "5.60",
+        "metodoPagamento": "Dinheiro"
+    },
+    {
+        "matricula": "XX-XX-016",
+        "marca": "Infiniti",
+        "vaga": 16,
+        "entrada": "2024-04-18T08:15:00",
+        "saida": "2024-04-18T11:30:00",
+        "valorPago": "4.80",
+        "metodoPagamento": "Multibanco"
+    },
+    {
+        "matricula": "XX-XX-017",
+        "marca": "Mazda",
+        "vaga": 17,
+        "entrada": "2024-04-17T11:00:00",
+        "saida": "2024-04-17T14:45:00",
+        "valorPago": "6.20",
+        "metodoPagamento": "Dinheiro"
+    },
+    {
+        "matricula": "XX-XX-018",
+        "marca": "Porsche",
+        "vaga": 18,
+        "entrada": "2024-04-16T08:00:00",
+        "saida": "2024-04-16T09:45:00",
+        "valorPago": "6.00",
+        "metodoPagamento": "Multibanco"
+    },
+    {
+        "matricula": "XX-XX-019",
+        "marca": "Mitsubishi",
+        "vaga": 19,
+        "entrada": "2024-04-15T10:30:00",
+        "saida": "2024-04-15T13:00:00",
+        "valorPago": "7.40",
+        "metodoPagamento": "Dinheiro"
+    },
+    {
+        "matricula": "XX-XX-020",
+        "marca": "Land Rover",
+        "vaga": 20,
+        "entrada": "2024-04-14T11:15:00",
+        "saida": "2024-04-14T13:00:00",
+        "valorPago": "8.00",
+        "metodoPagamento": "Multibanco"
+    },
+    {
+        "matricula": "XX-XX-021",
+        "marca": "Nissan",
+        "vaga": 21,
+        "entrada": "2024-04-13T08:30:00",
+        "saida": "2024-04-13T10:45:00",
+        "valorPago": "6.80",
+        "metodoPagamento": "Dinheiro"
+    },
+    {
+        "matricula": "XX-XX-022",
+        "marca": "Jeep",
+        "vaga": 22,
+        "entrada": "2024-04-12T09:00:00",
+        "saida": "2024-04-12T12:15:00",
+        "valorPago": "7.20",
+        "metodoPagamento": "Multibanco"
+    },
+    {
+        "matricula": "XX-XX-023",
+        "marca": "Mini",
+        "vaga": 23,
+        "entrada": "2024-04-11T10:30:00",
+        "saida": "2024-04-11T13:45:00",
+        "valorPago": "8.00",
+        "metodoPagamento": "Dinheiro"
+    },
+    {
+        "matricula": "XX-XX-024",
+        "marca": "Fiat",
+        "vaga": 24,
+        "entrada": "2024-04-10T11:20:00",
+        "saida": "2024-04-10T14:30:00",
+        "valorPago": "6.60",
+        "metodoPagamento": "Multibanco"
+    },
+    {
+        "matricula": "XX-XX-025",
+        "marca": "Alfa Romeo",
+        "vaga": 25,
+        "entrada": "2024-04-09T09:45:00",
+        "saida": "2024-04-09T12:00:00",
+        "valorPago": "5.40",
+        "metodoPagamento": "Dinheiro"
+    },
+    {
+        "matricula": "XX-XX-026",
+        "marca": "Ferrari",
+        "vaga": 26,
+        "entrada": "2024-04-08T08:30:00",
+        "saida": "2024-04-08T11:45:00",
+        "valorPago": "7.40",
+        "metodoPagamento": "Multibanco"
+    },
+    {
+        "matricula": "XX-XX-027",
+        "marca": "Lamborghini",
+        "vaga": 27,
+        "entrada": "2024-04-07T10:00:00",
+        "saida": "2024-04-07T13:15:00",
+        "valorPago": "8.00",
+        "metodoPagamento": "Dinheiro"
+    },
+    {
+        "matricula": "XX-XX-028",
+        "marca": "McLaren",
+        "vaga": 28,
+        "entrada": "2024-04-06T10:45:00",
+        "saida": "2024-04-06T14:00:00",
+        "valorPago": "9.20",
+        "metodoPagamento": "Multibanco"
+    },
+    {
+        "matricula": "XX-XX-029",
+        "marca": "Rolls-Royce",
+        "vaga": 29,
+        "entrada": "2024-04-05T11:30:00",
+        "saida": "2024-04-05T15:45:00",
+        "valorPago": "6.60",
+        "metodoPagamento": "Dinheiro"
+    },
+    {
+        "matricula": "XX-XX-030",
+        "marca": "Bugatti",
+        "vaga": 30,
+        "entrada": "2024-04-04T12:15:00",
+        "saida": "2024-04-04T16:30:00",
+        "valorPago": "7.60",
+        "metodoPagamento": "Multibanco"
+    },
+    {
+        "matricula": "XX-XX-031",
+        "marca": "Bentley",
+        "vaga": 31,
+        "entrada": "2024-04-03T09:30:00",
+        "saida": "2024-04-03T12:45:00",
+        "valorPago": "5.80",
+        "metodoPagamento": "Dinheiro"
+    },
+    {
+        "matricula": "XX-XX-032",
+        "marca": "Jaguar",
+        "vaga": 32,
+        "entrada": "2024-04-02T08:45:00",
+        "saida": "2024-04-02T11:00:00",
+        "valorPago": "4.40",
+        "metodoPagamento": "Multibanco"
+    },
+    {
+        "matricula": "XX-XX-033",
+        "marca": "Lotus",
+        "vaga": 33,
+        "entrada": "2024-04-01T10:00:00",
+        "saida": "2024-04-01T13:15:00",
+        "valorPago": "3.80",
+        "metodoPagamento": "Dinheiro"
+    },
+    {
+        "matricula": "XX-XX-034",
+        "marca": "Buick",
+        "vaga": 34,
+        "entrada": "2024-03-31T11:15:00",
+        "saida": "2024-03-31T14:30:00",
+        "valorPago": "6.00",
+        "metodoPagamento": "Multibanco"
+    },
+    {
+        "matricula": "XX-XX-035",
+        "marca": "Cadillac",
+        "vaga": 35,
+        "entrada": "2024-03-30T08:30:00",
+        "saida": "2024-03-30T11:45:00",
+        "valorPago": "8.00",
+        "metodoPagamento": "Dinheiro"
+    },
+    {
+        "matricula": "XX-XX-036",
+        "marca": "Chrysler",
+        "vaga": 36,
+        "entrada": "2024-03-29T09:45:00",
+        "saida": "2024-03-29T13:00:00",
+        "valorPago": "7.20",
+        "metodoPagamento": "Multibanco"
+    },
+    {
+        "matricula": "XX-XX-037",
+        "marca": "Dodge",
+        "vaga": 37,
+        "entrada": "2024-03-28T11:00:00",
+        "saida": "2024-03-28T14:15:00",
+        "valorPago": "5.60",
+        "metodoPagamento": "Dinheiro"
+    },
+    {
+        "matricula": "XX-XX-038",
+        "marca": "Hummer",
+        "vaga": 38,
+        "entrada": "2024-03-27T10:15:00",
+        "saida": "2024-03-27T12:30:00",
+        "valorPago": "4.80",
+        "metodoPagamento": "Multibanco"
+    },
+    {
+        "matricula": "XX-XX-039",
+        "marca": "Lincoln",
+        "vaga": 39,
+        "entrada": "2024-03-26T09:30:00",
+        "saida": "2024-03-26T11:45:00",
+        "valorPago": "7.40",
+        "metodoPagamento": "Dinheiro"
+    },
+    {
+        "matricula": "XX-XX-040",
+        "marca": "Oldsmobile",
+        "vaga": 40,
+        "entrada": "2024-03-25T08:45:00",
+        "saida": "2024-03-25T10:00:00",
+        "valorPago": "8.00",
+        "metodoPagamento": "Multibanco"
+    },
+    {
+        "matricula": "XX-XX-041",
+        "marca": "Pontiac",
+        "vaga": 41,
+        "entrada": "2024-03-24T10:00:00",
+        "saida": "2024-03-24T13:15:00",
+        "valorPago": "6.60",
+        "metodoPagamento": "Dinheiro"
+    },
+    {
+        "matricula": "XX-XX-042",
+        "marca": "Saturn",
+        "vaga": 42,
+        "entrada": "2024-03-23T11:15:00",
+        "saida": "2024-03-23T14:30:00",
+        "valorPago": "5.40",
+        "metodoPagamento": "Multibanco"
+    },
+    {
+        "matricula": "XX-XX-043",
+        "marca": "Aston Martin",
+        "vaga": 43,
+        "entrada": "2024-03-22T08:30:00",
+        "saida": "2024-03-22T11:45:00",
+        "valorPago": "7.00",
+        "metodoPagamento": "Dinheiro"
+    },
+    {
+        "matricula": "XX-XX-044",
+        "marca": "Maserati",
+        "vaga": 44,
+        "entrada": "2024-03-21T09:45:00",
+        "saida": "2024-03-21T12:00:00",
+        "valorPago": "8.20",
+        "metodoPagamento": "Multibanco"
+    },{
+        "matricula": "XX-XX-001",
+        "marca": "Toyota",
+        "vaga": 1,
+        "entrada": "2024-05-10T08:00:00",
+        "saida": "2024-05-10T10:30:00",
+        "valorPago": "5.00",
+        "metodoPagamento": "Dinheiro"
+    },
+    {
+        "matricula": "XX-XX-002",
+        "marca": "Honda",
+        "vaga": 2,
+        "entrada": "2024-05-09T09:15:00",
+        "saida": "2024-05-09T11:45:00",
+        "valorPago": "6.00",
+        "metodoPagamento": "Multibanco"
+    },
+    {
+        "matricula": "XX-XX-003",
+        "marca": "Ford",
+        "vaga": 3,
+        "entrada": "2024-05-08T07:30:00",
+        "saida": "2024-05-08T08:30:00",
+        "valorPago": "2.50",
+        "metodoPagamento": "Dinheiro"
+    },
+    {
+        "matricula": "XX-XX-004",
+        "marca": "Chevrolet",
+        "vaga": 4,
+        "entrada": "2024-04-30T14:00:00",
+        "saida": "2024-04-30T18:00:00",
+        "valorPago": "8.00",
+        "metodoPagamento": "Multibanco"
+    },
+    {
+        "matricula": "XX-XX-005",
+        "marca": "Tesla",
+        "vaga": 5,
+        "entrada": "2024-04-29T12:00:00",
+        "saida": "2024-04-29T15:00:00",
+        "valorPago": "7.00",
+        "metodoPagamento": "Dinheiro"
+    },
+    {
+        "matricula": "XX-XX-006",
+        "marca": "BMW",
+        "vaga": 6,
+        "entrada": "2024-04-28T10:30:00",
+        "saida": "2024-04-28T13:45:00",
+        "valorPago": "9.00",
+        "metodoPagamento": "Multibanco"
+    },
+    {
+        "matricula": "XX-XX-045",
+        "marca": "Buggati",
+        "vaga": 45,
+        "entrada": "2024-03-20T10:00:00",
+        "saida": "2024-03-20T13:15:00",
+        "valorPago": "6.80",
+        "metodoPagamento": "Dinheiro"
+    },
+    {
+        "matricula": "XX-XX-046",
+        "marca": "Plymouth",
+        "vaga": 46,
+        "entrada": "2024-03-19T11:15:00",
+        "saida": "2024-03-19T14:30:00",
+        "valorPago": "7.40",
+        "metodoPagamento": "Multibanco"
+    },
+    {
+        "matricula": "XX-XX-047",
+        "marca": "Saab",
+        "vaga": 47,
+        "entrada": "2024-03-18T08:30:00",
+        "saida": "2024-03-18T11:45:00",
+        "valorPago": "5.60",
+        "metodoPagamento": "Dinheiro"
+    },
+    {
+        "matricula": "XX-XX-048",
+        "marca": "Daewoo",
+        "vaga": 48,
+        "entrada": "2024-03-17T09:45:00",
+        "saida": "2024-03-17T13:00:00",
+        "valorPago": "8.00",
+        "metodoPagamento": "Multibanco"
+    },
+    {
+        "matricula": "XX-XX-049",
+        "marca": "Geely",
+        "vaga": 49,
+        "entrada": "2024-03-16T11:00:00",
+        "saida": "2024-03-16T14:15:00",
+        "valorPago": "6.20",
+        "metodoPagamento": "Dinheiro"
+    },
+    {
+        "matricula": "XX-XX-050",
+        "marca": "BYD",
+        "vaga": 50,
+        "entrada": "2024-03-15T10:15:00",
+        "saida": "2024-03-15T12:30:00",
+        "valorPago": "4.80",
+        "metodoPagamento": "Multibanco"
+    }
+]

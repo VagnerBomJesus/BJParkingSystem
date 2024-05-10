@@ -16,6 +16,9 @@
         .container {
             margin-top: 50px;
         }
+        .hidden {
+            display: none; /* Ensure charts are initially hidden */
+        }
     </style>
 </head>
 
@@ -41,14 +44,6 @@
             </div>
         </nav>
 
-        <div class="container">
-            <canvas id="parkingChart"></canvas>
-        </div>
-
-        <div class="container">
-            <canvas id="revenueChart"></canvas>
-        </div>
-
         <div class="input-group mb-3">
             <div class="custom-file">
                 <input type="file" class="custom-file-input" id="jsonFileInput" aria-describedby="inputGroupFileAddon">
@@ -57,13 +52,6 @@
             <div class="input-group-append">
                 <button class="btn btn-outline-secondary" type="button" onclick="loadJSONData()">Load Data</button>
             </div>
-        </div>
-
-
-
-        <div class="filters mb-4 mt-4">
-            <button id="export-json" class="btn btn-success">Export JSON</button>
-            <button id="export-excel" class="btn btn-success">Export Excel</button>
         </div>
 
         <!-- Toggle Button for Charts -->
@@ -78,34 +66,35 @@
             <canvas id="revenueChart"></canvas>
         </div>
 
-        
+        <div class="filters mb-4 mt-4">
+            <button id="export-json" class="btn btn-success">Export JSON</button>
+            <button id="export-excel" class="btn btn-success">Export Excel</button>
+        </div>
 
         <div class="input-group mb-3">
             <input type="date" id="filter-date" class="form-control" />
-            <input type="text" id="filter-matricula" class="form-control" placeholder="Matrícula" />
+            <input type="text" id="filter-matricula" class="form-control" placeholder="License Plate" />
             <select id="filter-payment-method" class="form-control">
-                <option value="">Método de Pagamento</option>
-                <option value="dinheiro">Dinheiro</option>
-                <option value="multibanco">Multibanco</option>
+                <option value="">Payment Method</option>
+                <option value="cash">Cash</option>
+                <option value="card">Card</option>
             </select>
             <div class="input-group-append">
-                <button class="btn btn-outline-secondary" type="button" onclick="applyFilters()">
-                    Filter
-                </button>
+                <button class="btn btn-outline-secondary" type="button" onclick="applyFilters()">Filter</button>
             </div>
         </div>
 
         <table class="table">
             <thead>
                 <tr>
-                    <th>Matrícula</th>
-                    <th>Marca</th>
-                    <th>Vaga</th>
-                    <th>Entrada</th>
-                    <th>Saída</th>
-                    <th>Tempo Estacionado</th>
-                    <th>Valor Pago (€)</th>
-                    <th>Método de Pagamento</th>
+                    <th>License Plate</th>
+                    <th>Brand</th>
+                    <th>Space number</th>
+                    <th>Entry</th>
+                    <th>Exit</th>
+                    <th>Parked Time</th>
+                    <th>Amount Paid (€)</th>
+                    <th>Payment Method</th>
                 </tr>
             </thead>
             <tbody id="data-body">
@@ -115,7 +104,6 @@
     </div>
 
     <script src="/js/scripts_backoffice.js">
-
     </script>
 </body>
 
